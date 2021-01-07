@@ -34,17 +34,15 @@
   How do I install? 🤔
 </h3>
 
-Download the repository first.
+```
 
-```
+Download the repository first.
 $ git clone https://github.com/Himzyoti/thirdeye
-```
+
 Navigate to the directory.
-```
 $ cd thirdeye
-```
+
 Final step.
-```
 $ sudo chmod+x install.sh && ./install.sh
 ```
 <h3>Important ⚠️</h3>
