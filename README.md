@@ -19,8 +19,8 @@
   About the Tool
 </h2>
 <p>
-  Thirdeye is a simple Information Gathering tool written in python. The tool is usefull in gathering information from IP, Phone number, Email etc     
-  making  work easy.
+  Thirdeye is a simple Information Gathering tool written in python.The tool is usefull in gathering information from IP, Phone number, Email etc     
+  making work easy.
 </p>
 <p>
   <b>Screenshot</b>
@@ -35,7 +35,6 @@
 </h3>
 
 ```
-
 Download the repository first.
 $ git clone https://github.com/Himzyoti/thirdeye
 
