@@ -19,7 +19,7 @@
   About the Tool
 </h2>
 <p>
-  Thirdeye is a simple Information Gathering tool written in python.The tool is usefull in gathering information from IP, Phone number, Email etc     
+  Thirdeye is a simple Information Gathering tool written in python.Usefull in gathering information from IP, Phone number, Email etc     
   making work easy.
 </p>
 <p>
@@ -27,7 +27,7 @@
 </p>
 <p align="center">
   <a>
-    <img src="">
+    <img src="https://github.com/cyb3rsl0th/thirdeye/blob/main/images/thirdeye1.png">
   </a>
 </p>
 <h3>
@@ -36,7 +36,7 @@
 
 ```
 Download the repository first.
-$ git clone https://github.com/Himzyoti/thirdeye
+$ git clone https://github.com/cyb3rsl0th/thirdeye
 
 Navigate to the directory.
 $ cd thirdeye
@@ -44,10 +44,17 @@ $ cd thirdeye
 Final step.
 $ sudo chmod+x install.sh && ./install.sh
 ```
-<h3>Important ⚠️</h3>
+
+<h3>A search result</h3>
+<p aligh="center">
+  <a>
+    <img src="https://github.com/cyb3rsl0th/thirdeye/blob/main/images/thirdeye2.png">
+  </a>
+</p>
+<h4>Important ⚠️</h4>
 
 This tool is made for educational purpose only, for extreme beginners to learn how API works in scripts and don't forget to make your own script. Don't be a script kiddie and don't do anything illegal.
 
-<h4>Version 💿</h4>
+<h5>Version 💿</h5>
 
 Current version is v1.0
