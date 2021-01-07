@@ -42,7 +42,7 @@ Navigate to the directory.
 $ cd thirdeye
 
 Final step.
-$ sudo chmod+x install.sh && ./install.sh
+$ sudo chmod +x install.sh && ./install.sh
 ```
 
 <h3>A search result</h3>
